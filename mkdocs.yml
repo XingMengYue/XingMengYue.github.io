@@ -149,31 +149,30 @@ extra_javascript:
 
 extra_css:
   - _stylesheets/extra.css
-
 #############################################################
 #############################################################
 #############################################################
 
-nav:
-  - Home: index.md
-  - 算法:
-      - Algorithm/index.md
-      - 基础算法:
-          - Algorithm/basic_algorithm.md
-      - 数论:
-          - Algorithm/数论.md
-      - Test:
-          - Algorithm/test.md
-  - Blog:
-      - blog/index.md
-      - blog/tags.md
-  - WSI:
-      - 论文:
-          - WSI/index.md
-          - 改下游:
-              - WSI/论文1.md
-              - WSI/论文2.md
-          - 改上游:
-              - WSI/index.md
-              - WSI/论文3.md
-              - WSI/论文4.md
+# nav:
+#   - Home: index.md
+#   - 算法:
+#       - Algorithm/index.md
+#       - 基础算法:
+#           - Algorithm/basic_algorithm.md
+#       - 数论:
+#           - Algorithm/数论.md
+#       - Test:
+#           - Algorithm/test.md
+#   - Blog:
+#       - blog/index.md
+#       - blog/tags.md
+#   - WSI:
+#       - 论文:
+#           - WSI/index.md
+#           - 改下游:
+#               - WSI/论文1.md
+#               - WSI/论文2.md
+#           - 改上游:
+#               - WSI/index.md
+#               - WSI/论文3.md
+#               - WSI/论文4.md

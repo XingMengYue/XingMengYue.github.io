@@ -88,21 +88,22 @@ plugins:
         utm_source: "documentation"
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"
+  - awesome-pages
 
 extra:
-  alternate:
-    - name: 简体中文
-      link: /
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
-    - name: Español
-      link: /es/
-      lang: es
-    - name: اللغة العربية
-      link: /ar/
-      lang: ar
+  # alternate:
+  #   - name: 简体中文
+  #     link: /
+  #     lang: zh
+  #   - name: English
+  #     link: /en/
+  #     lang: en
+  #   - name: Español
+  #     link: /es/
+  #     lang: es
+  #   - name: اللغة العربية
+  #     link: /ar/
+  #     lang: ar
   generator: false
   analytics:
     provider: google

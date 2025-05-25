@@ -27,5 +27,7 @@ jobs:
         run: chmod 755 docs
       - name: Install MkDocs dependencies
         run: pip install -r requirements.txt
+      - name: Install MkDocs plugins
+        run: pip install mkdocs-awesome-pages-plugin
       - name: Deploy with MkDocs
         run: mkdocs gh-deploy --force

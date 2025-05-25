@@ -161,6 +161,8 @@ nav:
           - Algorithm/basic_algorithm.md
       - 数论:
           - Algorithm/数论.md
+      - Test:
+          - Algorithm/test.md
   - Blog:
       - blog/index.md
       - blog/tags.md

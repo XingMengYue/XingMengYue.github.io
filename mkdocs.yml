@@ -107,7 +107,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-QBB3SQMGLN # 如果克隆我的站点，请把这串代码改成你自己的
+    property: G-HN4HVBS1GB # 如果克隆我的站点，请把这串代码改成你自己的
   social:
     - name: 荣辉
       link: https://xiiiing.github.io

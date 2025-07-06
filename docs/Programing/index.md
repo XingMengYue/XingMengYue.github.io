@@ -5,4 +5,4 @@
 ## C# 正在使用中……
 
 [c#官方文档链接_微软](https://learn.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-version-history)
-[设计模式](https://refactoringguru.cn/design-patterns)
+[设计模式](https://refactoringguru.cn/design-patterns/catalog)

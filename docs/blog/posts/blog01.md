@@ -1,7 +1,7 @@
 ---
 date:
-  created: 2025年6月27日09:47:26
-  updated: 2025年6月27日09:47:26
+  created: 2025-6-27
+  updated: 2025-6-27
 readtime: 15
 categories:
   - 诗词歌赋
@@ -12,3 +12,4 @@ authors:
 ---
 
  - ***蟾宫折桂，金榜提名***
+ 

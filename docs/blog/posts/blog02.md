@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2025年7月14日15:26:28
+  created: 2025-07-14
   updated: 2024-01-02
 readtime: 15
 categories:
